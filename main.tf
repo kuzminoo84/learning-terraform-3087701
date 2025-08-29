@@ -47,7 +47,6 @@ resource "aws_instance" "blog" {
   }
 }
 
-<<<<<<< HEAD
 
 resource "aws_security_group" "blog" {
   name = "blog"
